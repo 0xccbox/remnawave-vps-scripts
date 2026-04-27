@@ -1,6 +1,5 @@
 # Remnawave VPS Scripts
-
-Красиво оформленные и понятные скрипты для подготовки VPS под Remnawave Panel, Remnawave Node и Remnawave Routing Updater.
+Понятные скрипты для подготовки VPS под Remnawave Panel, Remnawave Node и Remnawave Routing Updater.
 
 Проект рассчитан на простых пользователей, которые хотят быстро подготовить сервер под VPN-инфраструктуру на базе Remnawave без ручной настройки Linux, Docker, firewall, BBR и системных лимитов.
 
