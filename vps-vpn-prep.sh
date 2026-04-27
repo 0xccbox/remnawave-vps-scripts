@@ -564,7 +564,4 @@ main() {
   ask_reboot
 }
 
-main
-SCRIPT
-
-chmod +x /root/vps-vpn-prep.sh
+main "$@"
