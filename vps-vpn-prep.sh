@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-cat > /root/vps-vpn-prep.sh << 'SCRIPT'
-#!/usr/bin/env bash
 set -Eeuo pipefail
 
 export DEBIAN_FRONTEND=noninteractive
